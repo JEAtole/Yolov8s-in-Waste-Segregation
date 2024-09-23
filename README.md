@@ -1,0 +1,1 @@
+# Yolov8s-in-Waste-Segregation
